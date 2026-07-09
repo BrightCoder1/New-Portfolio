@@ -63,7 +63,7 @@ const Details = () => {
           </div>
 
           <img
-            src="./src/image/img1.png"
+            src="./img1.png"
             alt="profile"
           />
 

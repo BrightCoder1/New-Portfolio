@@ -93,7 +93,7 @@ const About = () => {
                     {"</>"} Full Stack Developer
                 </div> */}
 
-                <img className="aboutImg" src="./src/image/img1.png" alt="profile" />
+                <img className="aboutImg" src="./img1.png" alt="profile" />
 
                 <div className="focus-card">
 

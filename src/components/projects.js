@@ -2,7 +2,7 @@ const projects = [
     {
         projectName: "🍽️ Food Recipe Website",
         sourcecode: "https://github.com/BrightCoder1/Food_Recipes",
-        projectimg: "./src/image/FoodRecipes.jpg",
+        projectimg: "./FoodRecipes.jpg",
         livelink: "",
         category: "JavaScript",
         tech: [
@@ -15,7 +15,7 @@ const projects = [
     {
         projectName: "🏥 Hospital Management System",
         sourcecode: "https://github.com/BrightCoder1/Hospital-Management",
-        projectimg: "./src/image/Hospital.jpg",
+        projectimg: "./Hospital.jpg",
         livelink: "",
         category: "MERN",
         tech: [
@@ -29,7 +29,7 @@ const projects = [
     {
         projectName: "🍔 Tasty Burger Website",
         sourcecode: "https://github.com/BrightCoder1/Tasty_Burger_Code",
-        projectimg: "./src/image/Tasty Burger.jpg",
+        projectimg: "./Tasty Burger.jpg",
         livelink: "",
         category: "Node",
         tech: [
@@ -42,7 +42,7 @@ const projects = [
     {
         projectName: "🗂️ Task Management System",
         sourcecode: "https://github.com/BrightCoder1/Task-Manager",
-        projectimg: "./src/image/Task Management.jpg",
+        projectimg: "./TaskManager.jpg",
         livelink: "",
         category: "MERN",
         tech: [
@@ -55,7 +55,7 @@ const projects = [
     {
         projectName: "🔳 QR Code Generator",
         sourcecode: "https://github.com/BrightCoder1/QR-Code-Generator",
-        projectimg: "./src/image/QRCode.jpg",
+        projectimg: "./QRCode.jpg",
         livelink: "",
         category: "JavaScript",
         tech: [
@@ -68,7 +68,7 @@ const projects = [
     {
         projectName: "🏋️ Gym Management Website",
         sourcecode: "https://github.com/BrightCoder1/Gym-Web",
-        projectimg: "./src/image/GymWeb.jpg",
+        projectimg: "./GymWeb.jpg",
         livelink: "",
         category: "MERN",
         tech: [
@@ -81,7 +81,7 @@ const projects = [
     {
         projectName: "Smart Learning Platform",
         sourcecode: "https://github.com/BrightCoder1/Smart-Learning-Platform-",
-        projectimg: "./src/image/slp.jpg",
+        projectimg: "./slp.jpg",
         livelink: "https://smart-learning-platform-lovat.vercel.app/",
         category: "MERN",
         tech: [
@@ -95,7 +95,7 @@ const projects = [
     {
         "projectName": "🛒 E-Commerce Website",
         "sourcecode": "https://github.com/BrightCoder1/E-Commerce-Web",
-        "projectimg": "./src/image/ecm.png",
+        "projectimg": "./ecm.png",
         "livelink": "",
         "category": "MERN",
         "tech": ["React", "Node", "Express", "MongoDB"],
