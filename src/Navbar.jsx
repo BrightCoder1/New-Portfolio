@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-// import "./app.css";
 import "./nav.css";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 
