@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "./app.css";
-import "./css/nav.css";
+import "./App.css";
+import "./nav.css";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 
 const Navbar = () => {
