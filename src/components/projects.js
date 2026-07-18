@@ -101,6 +101,16 @@ const projects = [
         "tech": ["React", "Node", "Express", "MongoDB"],
         "info": "A React.js e-commerce website featuring product listings, shopping cart functionality, and a modern, responsive shopping interface."
     },
+    {
+        "projectName": "Whiteboard Pan",
+        "sourcecode": "https://github.com/BrightCoder1/Whiteboard-Writing-WebApp.git",
+        "projectimg": "./whiteboardpan.jpg",
+        "livelink": "https://agent-6a5b4ff53522c95946c84f21--whiteboardpan.netlify.app/",
+        "category": "React.JS",
+        "tech": ["React", "Javascript", "CSS"],
+        "info": "A React.js web application that allows users to draw and write on a virtual whiteboard, providing an interactive and collaborative experience for brainstorming, teaching, or creative expression."
+    
+    }
 ];
 
 export default projects;
