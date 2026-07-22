@@ -71,15 +71,15 @@ const About = () => {
 
                 <div className="social">
 
-                    <a href="#">
+                    <a href="https://github.com/BrightCoder1" target="new_page">
                         <FaGithub />
                     </a>
 
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/vishal-kumar-797437297" target="new_page">
                         <FaLinkedin />
                     </a>
                     {/* call */}
-                    <a href="#">
+                    <a href="tel:+916398728427" target="new_page">
                         <IoIosCall />
                     </a>
 
