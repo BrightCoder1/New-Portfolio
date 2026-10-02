@@ -4,28 +4,25 @@ import "../index.css";
 const tech = [
     // Frontend
     { name: "JavaScript", category: "Frontend" },
-    { name: "TypeScript", category: "Frontend" },
     { name: "React.js", category: "Frontend" },
-    { name: "HTML5", category: "Frontend" },
-    { name: "CSS3", category: "Frontend" },
+    { name: "HTML", category: "Frontend" },
+    { name: "CSS", category: "Frontend" },
     { name: "Tailwind CSS", category: "Frontend" },
     { name: "Bootstrap", category: "Frontend" },
 
     // Backend
     { name: "Node.js", category: "Backend" },
     { name: "Express.js", category: "Backend" },
-    { name: "NestJS", category: "Backend" },
     { name: "REST APIs", category: "Backend" },
 
     // Database
     { name: "MongoDB", category: "Database" },
-    { name: "MySQL", category: "Database" },
+    { name: "SQL Server", category: "Database" },
 
     // Tools
     { name: "Git", category: "Tools" },
     { name: "GitHub", category: "Tools" },
-    { name: "Postman", category: "Tools" },
-    { name: "VS Code", category: "Tools" },
+    { name: "Postman", category: "Tools" }
 ];
 
 const categories = [
