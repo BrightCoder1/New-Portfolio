@@ -22,7 +22,13 @@ const tech = [
     // Tools
     { name: "Git", category: "Tools" },
     { name: "GitHub", category: "Tools" },
-    { name: "Postman", category: "Tools" }
+    { name: "Postman", category: "Tools" },
+
+    //Other
+    { name: "Python", category: "Other" },
+    { name: "C++", category: "Other" },
+    { name: "C Language", category: "Other" },
+    
 ];
 
 const categories = [
@@ -31,6 +37,7 @@ const categories = [
     "Backend",
     "Database",
     "Tools",
+    "Other",
 ];
 
 const Skills = () => {
